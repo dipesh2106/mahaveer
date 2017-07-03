@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule $Mahaveer^ index.php
+RewriteRule $Admin^ admin/index.php
